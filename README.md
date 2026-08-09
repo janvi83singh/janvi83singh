@@ -29,11 +29,6 @@ and exploring <b>Python, Data Science and Machine Learning</b>.
 🚀 Currently learning, building projects and improving my problem-solving skills every day.
 </p>
 
-<p>
-💡 <b>My goal:</b> Become a strong Software Engineer / AI Engineer and build
-technology that solves real-world problems.
-</p>
-
 ---
 
 # 🌐 Connect With Me
