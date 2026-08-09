@@ -44,7 +44,7 @@ technology that solves real-world problems.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/janvi-singh-53a070297?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -52,7 +52,7 @@ technology that solves real-world problems.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janvi.singhxc16@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -131,23 +131,6 @@ technology that solves real-world problems.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=janvi83singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi83singh&layout=compact&theme=github_dark&hide_border=true"
-height="180"
-/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -162,15 +145,6 @@ width="700"
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=janvi83singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"
-/>
-
-</p>
 
 ---
 
@@ -186,16 +160,6 @@ width="95%"
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/janvi83singh/janvi83singh/output/github-contribution-grid-snake.svg"
-/>
-
-</p>
 
 ---
 
