@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/janvi83singh.git&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=janvi83singh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
