@@ -1,112 +1,104 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================== HEADER ===================== -->
 
-<div align="center">
+<h1 align="center">
+  👋 Greetings! ✨ I'm Janvi Singh
+</h1>
 
-# 👋 Hi, I'm Janvi Singh
+<p align="center">
+  <b>AI & Data Science Student | MERN Stack Developer | C++ & DSA Enthusiast | Full Stack Development</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;MERN+Stack+Developer;C%2B%2B+Programmer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;MERN+Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Python+%7C+JavaScript+%7C+React.js;Building+Projects+%26+Learning+Every+Day" />
+</p>
 
-### 💻 AI & Data Science Student | MERN Stack Developer | C++ Programmer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/janvi83singh.git&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 I'm an **Artificial Intelligence & Data Science** student
+- 💻 Passionate about **Full Stack Development and AI/ML**
+- ⚡ Currently learning and building with the **MERN Stack**
+- 🧠 Practicing **Data Structures & Algorithms using C++**
+- 🐍 Exploring **Python, Machine Learning & Data Science**
+- 🌐 Interested in building real-world web applications
+- 📊 Love working with data and solving problems
+- 🚀 Always learning, building and improving
+- 💡 My goal is to become a strong **Software Engineer / AI Engineer**
+
+<br>
+
+> 💬 *"Code. Learn. Build. Repeat."* 🚀
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=janvi83singh&style=for-the-badge&color=6C63FF" />
+### 🌐 Web Development
 
-</div>
-
-
-<!-- ======================= ABOUT ME ======================= -->
-
-## 👩‍💻 About Me
-
-Hi! I'm **Janvi Singh**, an **AI & Data Science student** passionate about
-software development, full-stack applications, artificial intelligence,
-machine learning, and problem solving.
-
-- 🎓 AI & Data Science Student
-- 💻 MERN Stack Developer
-- ⚡ C++ Programmer
-- 🐍 Python Developer
-- 🤖 Machine Learning Enthusiast
-- 🌐 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- 🗄️ SQL & Database Management
-- 🚀 Interested in building real-world applications
-- 🌱 Continuously learning and improving my technical skills
-
-I enjoy transforming ideas into practical applications and learning
-new technologies by building projects.
-
-
-<!-- ======================= TECH STACK ======================= -->
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
+### 🗄️ Databases
 
-## 🌐 MERN Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+### 🤖 AI / Data Science
 
-### 🚀 MERN Architecture
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+# 🧠 What I'm Currently Learning
 
 ```text
-              MERN STACK
-
-             ┌──────────┐
-             │ MongoDB  │
-             └────┬─────┘
-                  │
-             ┌────▼─────┐
-             │ Express  │
-             └────┬─────┘
-                  │
-             ┌────▼─────┐
-             │  React   │
-             └────┬─────┘
-                  │
-             ┌────▼─────┐
-             │ Node.js  │
-             └──────────┘
+🔥 Data Structures & Algorithms
+🔥 MERN Stack Development
+🔥 React.js
+🔥 Node.js & Express.js
+🔥 MongoDB
+🔥 Machine Learning
+🔥 Python for Data Science
+🔥 System Design Basics
+🔥 Git & GitHub
