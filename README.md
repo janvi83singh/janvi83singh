@@ -45,13 +45,13 @@ I enjoy working with web development, data science, machine learning and AI.
 
 ## 📊 GitHub Stats
 
-![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=janvi83singh&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=janvi83singh&theme=tokyonight)
 
 ---
 
@@ -82,4 +82,4 @@ Interactive dashboard for analyzing placement statistics.
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/janvi83singh.git)
+⭐ From [https://github.com/janvi83singh.git].
