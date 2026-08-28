@@ -127,34 +127,7 @@ and exploring <b>Python, Data Science and Machine Learning</b>.
 ---
 
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=janvi83singh&theme=github-dark-blue&hide_border=true"
-width="700"
-/>
-
-</p>
-
----
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=janvi83singh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
-width="95%"
-/>
-
-</p>
-
----
 
 ---
 
